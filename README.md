@@ -48,3 +48,6 @@ Compared sales performance across different regions.
 Analyzed the impact of discounts on profit.
 Tracked sales trends over time.
 Evaluated customer purchasing behavior by segment.
+
+
+![Superstore-Sales-Dashboard](https://github.com/akshadakumbhar28/Superstore-Sales-Dashboard/blob/main/Screenshot%202026-03-31%20221309.png)
